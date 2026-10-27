@@ -12,8 +12,8 @@ The page introduces the Skilled platform, highlights popular courses, and presen
 
 ### Links
 
--[Solution URL]()
--[Live Site URL:]()
+-[Solution URL](https://github.com/doomyhub229/-25Skilled-e-learning-landing-page)
+-[Live Site URL:](https://doomyhub229.github.io/-25Skilled-e-learning-landing-page/)
 
 ### Built with
 
